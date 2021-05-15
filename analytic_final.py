@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+#read data created in survey_prog
 df = pd.read_csv('survey_data_codes10.txt',names=
 
         ['patid',

@@ -13,10 +13,11 @@ A healthcare system wants to improve PX for ambulatory office visits following p
 Synthetic patient survey data for a hypothetical healthcare system collected over four notional time periods.  Assumes 1 survey per patient and a 100% response rate, with all respondents being adults answering on their own behalf.  Survey responses and patient characteristics are randomly generated through the uniform, triangle and normal distributions. 
 
 #### Products 
-- Python program to generate synthetic patient population
-- Python program to generate survey responses
-- Python analytic tool for charts and survey response counts
+- Program to generate synthetic patient population 
+- Program to generate survey responses
+- Analytic tool for charts and survey response counts
 - HTML code for notional website, PXCenter.html
+![image](https://user-images.githubusercontent.com/77211862/118365119-67a51e00-b569-11eb-9729-4c0a49b239ad.png)
 
 #### Limitations
 1. User cannot tailor views to look at interactively.

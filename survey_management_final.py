@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 21 09:34:52 2020
+Created on 
 
-@author: tiggy
+@author: 
 """
 import random
 
@@ -29,9 +29,9 @@ for i in respondents:
         shift = .1
     elif i[6]==4:
         shift=.2
-    if i[1]=='Tysons':
+    if i[1]=='home1':
         shift=shift+.05
-    if i[1]=='Springfield' and i[5]=="Other":
+    if i[1]=='home2' and i[5]=="Other":
         shift=shift-.1
     if i[5]=="English":
         shift=shift+.1

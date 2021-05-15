@@ -1,5 +1,5 @@
 #### Overview
-Patient Experience (PX) project in Health Informatics at George Mason University. 
+Patient Experience (PX) project in Health Informatics at George Mason University. This is my first project to make extensive use of Python and HTML.
 
 #### Motivation
 According the Beryl Institute, a center for thought leadership in patient experience, "PX encompasses “All touch-points of people processes, policies, communications, actions and environment.” I was inspired by the US Department of Veterans Affairs' Patient Journey map, which highlights the impact of both clinical and non-clinical factors on the patient's emotions and sense of ease.
@@ -20,7 +20,7 @@ Synthetic patient survey data for a hypothetical healthcare system collected ove
 ![image](https://user-images.githubusercontent.com/77211862/118365119-67a51e00-b569-11eb-9729-4c0a49b239ad.png)
 
 #### Limitations
-1. User cannot tailor views to look at interactively.
+1. User cannot tailor views to look at interactively, a must for a professional setting.
 2. Analysis program generates over 60 charts, leading to long run time even for small N
 3. More sophisticated graphics needed to appeal to professional audiences.
 4. Randomly generated response parameters were somewhat arbitrary and could be very difficult to estimate if realism is important.

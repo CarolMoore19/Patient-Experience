@@ -14,7 +14,7 @@ Synthetic patient survey data for a hypothetical healthcare system collected ove
 
 #### Products 
 - Program to generate synthetic patient population 
-- Program to generate survey responses
+- Programs to generate survey responses and place them on a likert scale
 - Analytic tool for charts and survey response counts
 - HTML code for notional website, PXCenter.html
 ![image](https://user-images.githubusercontent.com/77211862/118365119-67a51e00-b569-11eb-9729-4c0a49b239ad.png)

@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 27 18:02:40 2020
-
-@author: tiggy
 """
 
 import random
 
-
+#list of survey questions
 px_q=['1-It was easy to make an appointment.',
             '2-Parking was adequate.',
             '3-Elevators and walk-ways had enough space for everyone.',
@@ -33,6 +30,7 @@ retention_q =["18-I would recommend this center to a friend or on social media."
 filein = open("respondents.txt", 'r')
 rdata = filein.readlines()
 
+#create list of responses
 resplist=[]
 for i in rdata:
     i=i.rstrip('\n')
@@ -42,6 +40,7 @@ for i in rdata:
     v[7]=float(v[7])
     resplist.append(v)
 
+#put responses on likert scale            
 def agree_answers(agreeresp):
 
     if agreeresp>.8:

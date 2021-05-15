@@ -12,9 +12,9 @@ from numpy.random import choice
 #Patient's adminstrative data
 def locanswers(loc):
     if loc==1:
-        loccode='Springfield'
+        loccode='home1'
     else:
-        loccode='Tysons'
+        loccode='home2'
     patient.append(loccode)
 
 def ageanswers(age):

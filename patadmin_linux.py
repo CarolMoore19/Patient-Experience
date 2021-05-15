@@ -45,7 +45,6 @@ def setpatlist(numpats):
 
 numpats=500
 setpatlist(numpats)
-
 #Numpats is number of patients;  initiate patient list
 
 #Generate admin data

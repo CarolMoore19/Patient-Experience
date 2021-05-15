@@ -26,6 +26,6 @@ Synthetic patient survey data for a hypothetical healthcare system collected ove
 4. Randomly generated response parameters were somewhat arbitrary and could be very difficult to estimate if realism is important.
 5. Additional business data and social media monitoring would also be needed to give a complete view of PX.
 
-#### Results
-This tool includes many of the features a health system would need to start monitoring and improving PX around office visits:  a survey, an analytics program, and a web design. Survey could be adapted to focus on telehealth, which poses increasingly important PX challenges.
+#### Utility
+This tool includes many of the features a health system would need to start monitoring and improving PX around office visits:  a survey, an analytics program, and a web design. It could be readily adapted to demo designs to stakeholders.  Survey could be adapted to focus on telehealth, which poses increasingly important PX challenges.  
 

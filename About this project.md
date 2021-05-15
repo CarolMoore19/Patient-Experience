@@ -18,12 +18,13 @@ Synthetic patient survey data for a hypothetical healthcare system collected ove
 - Python analytic tool for charts and survey response counts
 - HTML code for notional website, PXCenter.html
 
-#### Results
-This tool includes many of the features a health system would need to start monitoring and improving PX around office visits:  a survey, an analytics program, and a web design. Survey could be adapted to focus on telehealth, which poses increasingly important PX challenges.
-
 #### Limitations
 1. User cannot tailor views to look at interactively.
 2. Analysis program generates over 60 charts, leading to long run time even for small N
 3. More sophisticated graphics needed to appeal to professional audiences.
 4. Randomly generated response parameters were somewhat arbitrary and could be very difficult to estimate if realism is important.
 5. Additional business data and social media monitoring would also be needed to give a complete view of PX.
+
+#### Results
+This tool includes many of the features a health system would need to start monitoring and improving PX around office visits:  a survey, an analytics program, and a web design. Survey could be adapted to focus on telehealth, which poses increasingly important PX challenges.
+

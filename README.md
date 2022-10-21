@@ -1,5 +1,5 @@
 #### Overview
-Individual student project for Computational Methods in Health Informatics at George Mason University, Fall 2020. This is my first project to make extensive use of Python and HTML.
+Individual student project for Computational Methods in Health Informatics at George Mason University, Fall 2020. 
 
 #### Motivation
 According the Beryl Institute, a center for thought leadership in patient experience, "PX encompasses “All touch-points of people processes, policies, communications, actions and environment.” I was inspired by the US Department of Veterans Affairs' Patient Journey map, which highlights the impact of both clinical and non-clinical factors on the patient's emotions and sense of ease.
